@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+  xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Adrian Gallo's Portfolio</ShortName>
+  <Description>Seasoned Professional | System Administration | Development | Business Management | Sales | Proficient in Shell Scripting, C, HTML, Python and JavaScript | Passionate about Minimalistic Computing | Continuous Learner.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Language>en-AU</Language>
+  <Url type="text/html" method="get" template="/index.xhtml?q={searchTerms}"/>
+  <Query role="example" searchTerms="Adrian Gallo resume portfolio cv"/>
+  <Developer>Adrian Gallo (aka. 2MuchC0ff33)</Developer>
+  <Attribution>XHTML Strict 1.0</Attribution>
+  <Contact>adrian.gallo@zohomail.com.au</Contact>
+  <Tags>adrian gallo, resume, cv, portfolio, 2MuchC0ff33, twomuchcoffee</Tags>
+  <LongName>Adrian Gallo's Portfolio</LongName>
+  <moz:SearchForm>/index.xhtml</moz:SearchForm>
+</OpenSearchDescription>
